@@ -1,0 +1,437 @@
+﻿[
+  {
+    "code": 1,
+    "name": "Pensão por Morte",
+    "type": "Trabalhador Rural"
+  },
+  {
+    "code": 2,
+    "name": "Pensão por Morte por Acidente de Trabalho",
+    "type": "Trabalhador Rural"
+  },
+  {
+    "code": 3,
+    "name": "Pensão",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 4,
+    "name": "Aposentadoria por Invalidez",
+    "type": "Trabalhador Rural"
+  },
+  {
+    "code": 5,
+    "name": "Aposentadoria por Invalidez por Acidente de Trabalho",
+    "type": "Trabalhador Rural"
+  },
+  {
+    "code": 6,
+    "name": "Aposentadoria por Invalidez",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 7,
+    "name": "Aposentadoria por idade",
+    "type": "Trabalhador Rural"
+  },
+  {
+    "code": 8,
+    "name": "Aposentadoria por idade",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 9,
+    "name": "Complemento por Acidente de Trabalho",
+    "type": "Trabalhador Rural"
+  },
+  {
+    "code": 10,
+    "name": "Auxílio Doença Acidentário",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 11,
+    "name": "Amparo Previdenciário por Invalidez",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 12,
+    "name": "Amparo Previdenciário por Idade",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 13,
+    "name": "Auxílio Doença",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 15,
+    "name": "Auxílio Reclusão",
+    "type": "Empregador Rural"
+  },
+  {
+    "code": 19,
+    "name": "Pensão de Estudante (LEI 7004 / 82)",
+    "type": null
+  },
+  {
+    "code": 20,
+    "name": "Pensão por Morte",
+    "type": "Ex-Diplomata"
+  },
+  {
+    "code": 21,
+    "name": "Pensão por Morte Previdenciária (LOPS)",
+    "type": null
+  },
+  {
+    "code": 22,
+    "name": "Pensão por Morte Estatutária ( EPU)",
+    "type": null
+  },
+  {
+    "code": 23,
+    "name": "Pensão por Morte",
+    "type": "Ex-Combatente"
+  },
+  {
+    "code": 24,
+    "name": "Pensão Especial ( Ato Institucional)",
+    "type": null
+  },
+  {
+    "code": 25,
+    "name": "Auxílio Reclusão",
+    "type": null
+  },
+  {
+    "code": 26,
+    "name": "Pensão Especial ( LEI 593 / 48) (EPU)",
+    "type": null
+  },
+  {
+    "code": 27,
+    "name": "Pensão por Morte",
+    "type": "Servidor Público Federal com dupla aposentadoria"
+  },
+  {
+    "code": 28,
+    "name": "Pensão por Morte do Regime Geral (Decreto 20465 / 31)",
+    "type": null
+  },
+  {
+    "code": 29,
+    "name": "Pensão por Morte (LEI 1256 / 52)",
+    "type": "Ex-Combatente Marítimo"
+  },
+  {
+    "code": 30,
+    "name": "Renda Mensal Vitalícia por Incapacidade (LEI 6179 / 74)",
+    "type": null
+  },
+  {
+    "code": 31,
+    "name": "Auxílio Doença Previdenciário 2",
+    "type": null
+  },
+  {
+    "code": 32,
+    "name": "Aposentadoria por Invalidez Previdenciária (LOPS)",
+    "type": null
+  },
+  {
+    "code": 33,
+    "name": "Aposentadoria por Invalidez",
+    "type": "Aeronauta"
+  },
+  {
+    "code": 34,
+    "name": "Aposentadoria por Morte",
+    "type": "Ex-Combatente Marítimo"
+  },
+  {
+    "code": 36,
+    "name": "Auxílio acidente Previdenciário",
+    "type": null
+  },
+  {
+    "code": 37,
+    "name": "Aposentadoria de extranumerário da União (EPU)",
+    "type": null
+  },
+  {
+    "code": 38,
+    "name": "Aposentadoria da extinta CAPIN (EPU)",
+    "type": null
+  },
+  {
+    "code": 39,
+    "name": "Auxílio Invalidez de Estudante (LEI 7004 / 82)",
+    "type": null
+  },
+  {
+    "code": 40,
+    "name": "Renda Mensal Vitalícia a Maiores de 70 anos LEI6179/74",
+    "type": null
+  },
+  {
+    "code": 41,
+    "name": "Aposentadoria por Idade (LOPS)",
+    "type": null
+  },
+  {
+    "code": 42,
+    "name": "Aposentadoria por Tempo de Contribuição Previdenciária",
+    "type": null
+  },
+  {
+    "code": 43,
+    "name": "Aposentadoria por Tempo de Contribuição",
+    "type": "Ex-Combatente"
+  },
+  {
+    "code": 44,
+    "name": "Aposentadoria por Tempo de Contribuição",
+    "type": "Aeronauta"
+  },
+  {
+    "code": 45,
+    "name": "Aposentadoria por Tempo de Contribuição",
+    "type": "Jornalista Profissional"
+  },
+  {
+    "code": 46,
+    "name": "Aposentadoria por Tempo de Contribuição Especial",
+    "type": null
+  },
+  {
+    "code": 47,
+    "name": "Abono de Permanência em Serviço (25%)",
+    "type": null
+  },
+  {
+    "code": 48,
+    "name": "Abono de Permanência em Serviço (20%)",
+    "type": null
+  },
+  {
+    "code": 49,
+    "name": "Aposentadoria por Tempo de Contribuição Ordinária",
+    "type": null
+  },
+  {
+    "code": 50,
+    "name": "Auxílio Doença Extinto Plano Básico",
+    "type": null
+  },
+  {
+    "code": 51,
+    "name": "Aposentadoria por Invalidez (Extinto plano Básico)",
+    "type": null
+  },
+  {
+    "code": 52,
+    "name": "Aposentadoria por Idade (Extinto plano Básico)",
+    "type": null
+  },
+  {
+    "code": 53,
+    "name": "Auxílio Reclusão Extinto Plano Básico",
+    "type": null
+  },
+  {
+    "code": 55,
+    "name": "Pensão por Morte (Extinto plano Básico)",
+    "type": null
+  },
+  {
+    "code": 56,
+    "name": "Pensão Especial Síndrome de Talidomida (LEI 7070 / 82)",
+    "type": null
+  },
+  {
+    "code": 57,
+    "name": "Aposentadoria por Tempo de Contribuição",
+    "type": "Professor (Emenda Constitucional 18/81)"
+  },
+  {
+    "code": 58,
+    "name": "Aposentadoria Excepcional (EPU)",
+    "type": "Anistiado (Lei 6683 / 79 )"
+  },
+  {
+    "code": 59,
+    "name": "Pensão por Morte Excepcional (EPU)",
+    "type": "Anistiado (Lei 6683 / 79 )"
+  },
+  {
+    "code": 61,
+    "name": "Auxílio Natalidade",
+    "type": null
+  },
+  {
+    "code": 62,
+    "name": "Auxílio Funeral",
+    "type": null
+  },
+  {
+    "code": 65,
+    "name": "Pecúlio Especial de Servidor Autárquico (LEI 3073 / 58)",
+    "type": null
+  },
+  {
+    "code": 66,
+    "name": "Pecúlio Especial de Servidor Autárquico Decreto",
+    "type": null
+  },
+  {
+    "code": 68,
+    "name": "Pecúlio Especial de Aposentado",
+    "type": null
+  },
+  {
+    "code": 69,
+    "name": "Pecúlio de Estudante (LEI 7004 / 82)",
+    "type": null
+  },
+  {
+    "code": 70,
+    "name": "Pecúlio Especial entrada com mais de 60 anos",
+    "type": null
+  },
+  {
+    "code": 71,
+    "name": "Salário Família Previdenciário",
+    "type": null
+  },
+  {
+    "code": 72,
+    "name": "Aposentadoria por Tempo de Contribuição",
+    "type": "Ex-Combatente Marítimo (Lei 17556 / 52)"
+  },
+  {
+    "code": 73,
+    "name": "Salário Família Estatutário Decreto 73833 / 74",
+    "type": null
+  },
+  {
+    "code": 74,
+    "name": "Complemento de Pensão à conta da União",
+    "type": null
+  },
+  {
+    "code": 75,
+    "name": "Complemento a Aposentadoria à conta da União",
+    "type": null
+  },
+  {
+    "code": 76,
+    "name": "Salário Família Estatutário Decreto 73833 / 74",
+    "type": null
+  },
+  {
+    "code": 77,
+    "name": "Salário Família dos Servidores INPS / IAPFEST",
+    "type": null
+  },
+  {
+    "code": 78,
+    "name": "Aposentadoria por Idade",
+    "type": "Ex-Combatente Marítimo (Lei 17556 / 52)"
+  },
+  {
+    "code": 79,
+    "name": "Vantagens da Lei 1756/52 Servidor Aposentado",
+    "type": null
+  },
+  {
+    "code": 80,
+    "name": "Salário Maternidade",
+    "type": null
+  },
+  {
+    "code": 81,
+    "name": "Aposentadoria por Idade Compulsória (Ex-SASSE)",
+    "type": null
+  },
+  {
+    "code": 82,
+    "name": "Aposentadoria por Tempo de Contribuição (Ex-SASSE)",
+    "type": null
+  },
+  {
+    "code": 83,
+    "name": "Aposentadoria por Invalidez (Ex-SASSE)",
+    "type": null
+  },
+  {
+    "code": 84,
+    "name": "Pensão por Morte ( Ex-SASSE)",
+    "type": null
+  },
+  {
+    "code": 85,
+    "name": "Pensão mensal Vitalícia",
+    "type": "Seringueiro (Lei 7986 / 89)"
+  },
+  {
+    "code": 86,
+    "name": "Pensão mensal Vitalícia",
+    "type": "Dependente de Seringueiro (Lei 7986 / 89)"
+  },
+  {
+    "code": 87,
+    "name": "Amparo Assistencial ao deficiente",
+    "type": null
+  },
+  {
+    "code": 88,
+    "name": "Amparo Assistencial ao Idoso",
+    "type": null
+  },
+  {
+    "code": 89,
+    "name": "Pensão Espacial Hemodiálise",
+    "type": null
+  },
+  {
+    "code": 91,
+    "name": "Auxílio Doença por Acidente de Trabalho",
+    "type": null
+  },
+  {
+    "code": 92,
+    "name": "Aposentadoria por invalidez",
+    "type": "Acidente de Trabalho"
+  },
+  {
+    "code": 93,
+    "name": "Pensão por Morte",
+    "type": "Acidente de Trabalho"
+  },
+  {
+    "code": 94,
+    "name": "Auxílio Acidente",
+    "type": null
+  },
+  {
+    "code": 95,
+    "name": "Auxílio Suplementar",
+    "type": null
+  },
+  {
+    "code": 96,
+    "name": "Pecúlio por Invalidez por Acidente de Trabalho",
+    "type": null
+  },
+  {
+    "code": 97,
+    "name": "Pecúlio por Morte por Acidente de Trabalho",
+    "type": null
+  },
+  {
+    "code": 99,
+    "name": "Afastamento de 15 (quinze) dias para Acidente de Trabalho",
+    "type": null
+  }
+]
